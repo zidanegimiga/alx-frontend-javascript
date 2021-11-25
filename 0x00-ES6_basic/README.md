@@ -11,3 +11,12 @@ The sole aim of this project was to learn:
         - String templating in ES6
         - Object creation and their properties in ES6
         - Iterators and for-of loops
+
+Dependencies
+------------------------------------------
+        NodeJS 12.11.x
+        est
+        Babel
+        ESLint
+
+See Package-lock files for dependencies
