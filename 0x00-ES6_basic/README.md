@@ -2,7 +2,7 @@
 
 The sole aim of this project was to learn:
 ------------------------------------------
-      ` - What ES6 is
+        - What ES6 is
         - New features introduced in ES6
         - The difference between a constant and a variable
         - Block-scoped variables
@@ -10,4 +10,4 @@ The sole aim of this project was to learn:
         - Rest and spread function parameters
         - String templating in ES6
         - Object creation and their properties in ES6
-        - Iterators and for-of loops`
+        - Iterators and for-of loops
